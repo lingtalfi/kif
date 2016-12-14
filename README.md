@@ -7,7 +7,7 @@ Kif
 Komin> presents: KIF (Komin> Intuitive Framework).
 
 
-Kif is a framework I use when creating web applications.
+Kif is a framework I use when creating web applications (any).
 
 It's intuitive, simple and straightforward.
 
@@ -956,5 +956,17 @@ Private TODO:
 ================
 - Http Response helpers (and the file from symfony)
 - normalized way to inject into the html title
+
+
+
+
+
+Version history
+==============
+
+
+- 1.0.0 - 2016-12-14
+
+    Initial commit   
 
 
