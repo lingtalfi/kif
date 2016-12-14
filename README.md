@@ -18,6 +18,45 @@ Kif is written in php.
  
 
 
+Summary
+===========
+- [Philosophy](#philosophy)
+- [The project tree structure](#the-project-tree-structure)
+  * [Extension](#extension)
+- [The app tree structure](#the-app-tree-structure)
+  * [init.php](#initphp)
+  * [class/](#class-)
+  * [class-modules/](#class-modules-)
+  * [class-planets/](#class-planets-)
+  * [class-whatever/](#class-whatever-)
+  * [functions/](#functions-)
+  * [log/](#log-)
+  * [pages/](#pages-)
+  * [scripts/](#scripts-)
+  * [vendor/](#vendor-)
+  * [www/](#www-)
+- [index.php](#indexphp)
+- [Exception handling strategy](#exception-handling-strategy)
+  * [Fallback strategy](#fallback-strategy)
+  * [Localized strategy](#localized-strategy)
+- [Multi-language](#multi-language)
+  * [The lang directory](#the-lang-directory)
+  * [The __ function](#the----function)
+- [Spirit](#spirit)
+- [Basic kif concepts](#basic-kif-concepts)
+- [Nomenclature](#nomenclature)
+  * [Bridge](#bridge)
+  * [Module](#module)
+  * [Class naming conventions](#class-naming-conventions)
+- [Private TODO:](#private-todo-)
+- [Version history](#version-history)
+
+
+
+
+
+
+
 
 Philosophy
 ===============
